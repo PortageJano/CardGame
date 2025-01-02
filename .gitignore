@@ -1,0 +1,24 @@
+# Compiled source files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+
+# Folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Files to ignore
+*.log
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build config files
+*.user
+*.userprefs
